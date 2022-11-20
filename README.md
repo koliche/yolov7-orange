@@ -1,1 +1,1 @@
-# Official YOLOv7
+# Official YOLOv7 for orange fruit detection
